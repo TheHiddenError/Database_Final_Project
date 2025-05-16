@@ -16,6 +16,6 @@
 
 > Note: The weak entity table was renamed as Trajectory just to keep it simplier and easier to write. 
 
-> Note 2: The Euclidean Distance Formula was used to 
+> Note 2: The Euclidean Distance Formula was used to calculate the distance for average speed.
 
 
