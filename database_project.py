@@ -139,10 +139,10 @@ for x in res2:  #checks to see if there was a robot in which average speed was l
 	for y in rows:
 		if (y[0] == x[0]):
 			present = True
-			x = f"({x[0]}, {present})"
+			x = f"({x[0]}, Yes)"
 			continue
 	if (not present):
-		x = f"({x[0]}, {present})"
+		x = f"({x[0]}, No)"
 	print(x)
       
 
